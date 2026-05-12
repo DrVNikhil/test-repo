@@ -1,0 +1,25 @@
+From 41551166e28b58c0a27edc233620f647ee5f9d37 Mon Sep 17 00:00:00 2001
+From: nikhil <nikhil.venkataraj@psiog.com>
+Date: Tue, 12 May 2026 12:07:47 +0530
+Subject: [PATCH 2/2] Commit
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index b8ff38d..d01abe2 100644
+--- a/index.html
++++ b/index.html
+@@ -5,7 +5,7 @@
+     <title>My Project</title> 
+ </head> 
+     <body> 
+-        <h1>Hello Universe</h1> 
++        <h1>Hello World</h1> 
+         <p>This is a sample project for a git assignment.</p>
+ 
+         <h2>About Me</h2>
+-- 
+2.53.0.windows.1
+

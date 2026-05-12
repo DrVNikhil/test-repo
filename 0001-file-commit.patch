@@ -1,0 +1,35 @@
+From 0ec15a4919b0bf225b77de34d78048043503dbae Mon Sep 17 00:00:00 2001
+From: nikhil <nikhil.venkataraj@psiog.com>
+Date: Tue, 12 May 2026 12:02:51 +0530
+Subject: [PATCH 1/2] file commit
+
+---
+ index.html | 6 +-----
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+
+diff --git a/index.html b/index.html
+index 7be9bd6..b8ff38d 100644
+--- a/index.html
++++ b/index.html
+@@ -5,16 +5,12 @@
+     <title>My Project</title> 
+ </head> 
+     <body> 
+-        <h1>Hello World</h1> 
++        <h1>Hello Universe</h1> 
+         <p>This is a sample project for a git assignment.</p>
+ 
+         <h2>About Me</h2>
+         <p>I'm learning the fundamentals of Git.</p>
+ 
+-<<<<<<< HEAD
+         <footer>Contact us at email@website.com</footer>
+-=======
+-        <footer>Contact us at email@gmail.com</footer>
+->>>>>>> feature-footer
+     </body> 
+ </html>
+\ No newline at end of file
+-- 
+2.53.0.windows.1
+
